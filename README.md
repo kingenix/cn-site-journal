@@ -1,2 +1,14 @@
 # cn-site-journal
-HTML page archive and documentation
+
+页面文件管理仓库
+
+这里作为静态内容目录，保存自动化生成的页面。
+
+## 文件管理
+
+- HTML 文件由发布流程生成
+- README 用于保留基础说明
+
+## 内容说明
+
+仓库中的 HTML 文件为主要内容，README 仅保留简要说明。
